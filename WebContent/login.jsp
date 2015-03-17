@@ -15,6 +15,7 @@ return false;
 <body bgcolor=#C0C0C0 onsubmit="return validate()" >
 <center>
 <h1>Welcome to Brillio Automation </h1>
+
 <br>
 <br>
 <br>
@@ -33,6 +34,7 @@ Password</td>
 </td>
 </table>
 </form>
+Version 1.1
 </center>
 </body> 
 </html>
