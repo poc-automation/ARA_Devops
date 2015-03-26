@@ -5,7 +5,7 @@
 <script>
 function validate()
 {
-if(document.form.username.value=="brillio" && document.form.password.value=="brillio@123")
+if(document.form.username.value=="brillio" && document.form.password.value=="brillio")
 return true;
 else
 return false;
@@ -14,7 +14,7 @@ return false;
 </head>
 <body bgcolor=#C0C0C0 onsubmit="return validate()" >
 <center>
-<h1>Welcome to Brillio Automation </h1>
+<h1><b>Welcome to Brillio Automation</b></h1>
 
 <br>
 <br>
